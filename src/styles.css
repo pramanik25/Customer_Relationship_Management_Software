@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+}
+
+.searchbar {
+  display: flex;
+  gap: 75px;
+  margin-left: 225px;
+}
+
+.txt {
+  height: 30px;
+  border-radius: 5px;
+  background-color: rgb(219, 184, 251);
+  border-style: none;
+}
+
+.div {
+  border-radius: 40px;
+  border: 2px solid yellow;
+  width: 800px;
+}
+
+.color {
+  background-color: red;
+}
+
+table,
+tr {
+  border: 2px solid yellow;
+  width: 100%;
+  background-color: rgb(249, 126, 126);
+  height: 10px;
+}
+
+td {
+  background-color: rgb(169, 234, 90);
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.userItem {
+  background-color: red;
+}
+
+.highlight {
+  background-color: yellow;
+}
